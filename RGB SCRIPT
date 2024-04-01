@@ -1,0 +1,6 @@
+local part = script.Parent
+
+while true do
+    part.Color = Color3.new(math.random(), math.random(), math.random())
+    wait(1
+end
